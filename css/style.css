@@ -1,0 +1,22 @@
+    * {
+        padding: 0;
+        margin: 0;
+    }
+    
+    article {
+        background-color: rgb(162, 167, 204);
+
+    }
+    
+    nav {
+        background-color: rgb(180, 185, 238);
+    }  
+
+    .table-brown {
+        background-color: #2a0e9a; 
+        color: white;
+        text-align: center;
+    }
+    tr,td{
+        text-align: justify;
+    }
